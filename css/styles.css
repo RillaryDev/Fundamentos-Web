@@ -1,0 +1,28 @@
+       body {
+
+           background-color: black;
+       }
+
+       p {
+           font-size: 20px;
+       }
+
+       #p-first {
+           font-weight: bold;
+           color: #357979;
+       }
+
+       .p-color {
+           color: #c119c7;
+       }
+
+
+       .container {
+           display: flex;
+           align-items: center;
+           justify-content: space-around;
+
+           border: 5px solid rgb(45, 0, 128);
+           padding: 20px;
+           margin: 20px;
+       }
